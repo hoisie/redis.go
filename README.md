@@ -1,4 +1,1 @@
-redis.go
-========
-
-Redis.go has moved
+This repository has moved to http://github.com/hoisie/redis
